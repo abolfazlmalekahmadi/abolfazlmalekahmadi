@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning bioinformatics science
 - 💬 Ask me about ...
 - 📫 How to reach me: abolfazlmalekahmadi@gmail.com
+- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abolfazlmalekahmadi&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abolfazlmalekahmadi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
