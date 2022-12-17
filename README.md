@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🚀  I realy Interested in new and exciting things 
+- 🌱 I’m currently learning bioinformatics science
+- 💬 Ask me about ...
+- 📫 How to reach me: abolfazlmalekahmadi@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abolfazlmalekahmadi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **abolfazlmalekahmadi/abolfazlmalekahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
