@@ -10,13 +10,14 @@
 
 - 📫 How to reach me **abolfazlmalekahmadi@gmail.com**
 
-<a  href="https://twitter.com/AbolfazleMalek" target="blank"><img align="right" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="https://stackoverflow.com/users/10356618/abolfazlmalekahmadi" height="300" width="400" /></a></p>
+</p>
 <h3>-----------------------------------------------------</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   
 <a href="https://www.linkedin.com/in/abolfazl-malekahmadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abolfazl-malekahmadi/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10356618/abolfazlmalekahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10356618/abolfazlmalekahmadi" height="30" width="40" /></a>
+<a href="https://twitter.com/AbolfazleMalek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://stackoverflow.com/users/10356618/abolfazlmalekahmadi" height="30" width="40" /></a>
 
 
 </p>
