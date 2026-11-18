@@ -1,10 +1,10 @@
 <!-- ───────────────────────── HEADER ───────────────────────── -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=230&section=header&text=Abolfazl%20Malekahmadi&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Researcher%20%26%20Engineer%20%E2%80%A2%20Sharif%20University%20of%20Technology&descSize=17&descAlignY=58" alt="Abolfazl Malekahmadi" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=230&section=header&text=Abolfazl%20Malekahmadi&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Researcher%20and%20Engineer%20%E2%80%A2%20Sharif%20University%20of%20Technology&descSize=17&descAlignY=58" alt="Abolfazl Malekahmadi" />
 
 <a href="https://abolfazlmalekahmadi.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Medical+AI+%C2%B7+Foundation+Models+%C2%B7+Autonomous+Agents;First+author+%40+ICML+2024+(PanSAM);AI+Team+Lead+%40+Scientific+Reports+2025;Shipping+multi-agent+LLM+systems+to+production;%F0%9F%8E%93+Open+to+PhD+positions" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Medical+AI+%C2%B7+Foundation+Models+%C2%B7+Autonomous+Agents;First+author+%40+ICML+2024+(PanSAM);Co-author+%40+Scientific+Reports+2025;Shipping+multi-agent+LLM+systems+to+production;%F0%9F%8E%93+Open+to+PhD+positions" alt="Typing intro" />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@ class Abolfazl:
 | | Work | Venue |
 |:-:|---|---|
 | 🥇 | **[PanSAM: Zero-Shot, Prompt-Free Pancreas Segmentation in CT Imaging](https://openreview.net/pdf/49af6eaca244f5ebde170ba49432f8ea782b359e.pdf)**<br/><sub>First author · first prompt-free SAM-based pancreas segmentation · Dice **87.01%** on NIH Pancreas · [code](https://github.com/abolfazlmalekahmadi/PSDDSAM/tree/final)</sub> | ![ICML](https://img.shields.io/badge/ICML_2024-FM_Workshop-blue?style=flat-square) |
-| 🫀 | **[AI-driven tongue image analysis for diagnosing and predicting coronary artery disease](https://www.nature.com/articles/s41598-025-28417-4)**<br/><sub>AI Team Lead · SAM + DINOv2 + DeepLabv3+ · validated on **906 patients** / 12,000 images</sub> | ![Nature](https://img.shields.io/badge/Scientific_Reports-2025-c41e3a?style=flat-square) |
+| 🫀 | **[AI-driven tongue image analysis for diagnosing and predicting coronary artery disease](https://www.nature.com/articles/s41598-025-28417-4)**<br/><sub>Co-author · SAM + DINOv2 + DeepLabv3+ · validated on **906 patients** / 12,000 images</sub> | ![Nature](https://img.shields.io/badge/Scientific_Reports-2025-c41e3a?style=flat-square) |
 | ⚽ | **[ML models for injury risk prediction in football players: a systematic review](https://journals.sagepub.com/doi/full/10.1177/03000605261469442)**<br/><sub>Co-author</sub> | ![SAGE](https://img.shields.io/badge/J._Int._Med._Research-2026-2e7d32?style=flat-square) |
 | 🧠 | **AI-Driven Rapid Diagnosis and Management of Acute Ischemic Stroke**<br/><sub>Registered patent · imaging-based detection, diagnosis and monitoring</sub> | ![Patent](https://img.shields.io/badge/Patent-Registered-8B5CF6?style=flat-square) |
 
