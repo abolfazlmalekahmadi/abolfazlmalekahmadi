@@ -154,12 +154,6 @@ class Abolfazl:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abolfazlmalekahmadi&theme=github-compact&hide_border=true&radius=12&area=true" alt="Contribution activity graph" />
 </picture>
 
-<!-- Generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abolfazlmalekahmadi/abolfazlmalekahmadi/output/github-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/abolfazlmalekahmadi/abolfazlmalekahmadi/output/github-snake.svg" alt="Contribution snake" />
-</picture>
-
 </div>
 
 <!-- ───────────────────────── FOOTER ───────────────────────── -->
